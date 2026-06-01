@@ -8,9 +8,9 @@
     #ID:
     #Precio
     #Envio Gratuito:
-from traceback import print_tb
 
-from debugpy._vendored.pydevd._pydevd_bundle import pydevd_runpy
+
+
 
 print("Ingrese los siguiente datos del libro:")
 nombre = input("Ingrese el nombre del libro: ")
