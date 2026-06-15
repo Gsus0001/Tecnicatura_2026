@@ -1,10 +1,12 @@
 # 🎓 Tecnicatura 2026
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Gsus0001/Tecnicatura_2026)
-![GitHub repo size](https://img.shields.io/github/repo-size/Gsus0001/Tecnicatura_2026)
-![Python](https://img.shields.io/badge/Python-3.14-blue)
-![Git](https://img.shields.io/badge/Git-orange)
-![Status](https://img.shields.io/badge/Status-En%20Curso-yellow)
+![GitHub last commit](https://img.shields.io/badge/last_commit-today-blue?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/badge/repo_size-64_KB-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge)
+![Java JDK](https://img.shields.io/badge/Java_JDK-21.0.11-ED8B00?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-v24.15.0-339933?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-2.54.0-F05032?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-En_Curso-yellow?style=for-the-badge)
 ## Autor
 >Jesus D. Perez - Estudiante de Tecnicatura En Programacion
 ## 📊 Estado de materias
