@@ -5,7 +5,7 @@ public class Ejercicio7 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        finad int salario = 1000;
+        final int salario = 1000;
         int comision = 150, venta;
         float salarioMensual, ventaCarro, porcVenta, totalPrecio;
         
