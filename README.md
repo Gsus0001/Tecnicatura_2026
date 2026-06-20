@@ -2,10 +2,10 @@
 
 ![GitHub last commit](https://img.shields.io/badge/last_commit-today-blue?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/badge/repo_size-64_KB-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge)
-![Java JDK](https://img.shields.io/badge/Java_JDK-21.0.11-ED8B00?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-v24.15.0-339933?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-2.54.0-F05032?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java JDK](https://img.shields.io/badge/Java_JDK-21.0.11-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-v24.15.0-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.54.0-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-En_Curso-yellow?style=for-the-badge)
 ## Autor
 >Jesus D. Perez - Estudiante de Tecnicatura En Programacion
@@ -23,6 +23,7 @@
 ## 🛠️ Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python venv](https://img.shields.io/badge/Python_venv-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
