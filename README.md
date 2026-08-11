@@ -9,16 +9,6 @@
 ![Status](https://img.shields.io/badge/Status-En_Curso-yellow?style=for-the-badge)
 ## Autor
 >Jesus D. Perez - Estudiante de Tecnicatura En Programacion
-## 📊 Estado de materias
-
-| Materia | Estado | Calificación |
-|---------|--------|--------------|
-| <font color="green">Introducción a la Programación</font> | ✅ Entregado | <font color="green">-</font> |
-| <font color="orange">Java</font> | ✅ Entregado | <font color="oranje">-</font> |
-| <font color="yellow">JavaScript</font> | ✅ Entregado | <font color="green">-</font> |
-| <font color="lightblue">Python</font> | ✅ Entregado | <font color="green">-</font> |
-| <font color="orange">Fundamentos de Git</font> | ✅ Entregado | <font color="green">-</font> |
-
 
 ## 🛠️ Tecnologías
 
@@ -36,40 +26,37 @@
 
 ---
 
-### Año 1 (Semestres 1 al 4)
+### 🏅 Año 1 (Semestres 1 y 2)
 
 | Semestre | Estado | Avance del año |
 |----------|--------|----------------|
-| Semestre 1 | 🟡 50% completado | <font color="green">██████░░░░░░░░░░░░░░</font> |
-| Semestre 2 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> |
-| Semestre 3 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> |
-| Semestre 4 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> |
+| Semestre 1 | 🟢 Aprobado | <font color="green">████████████████████</font> 100% |
+| Semestre 2 | 🟡 En curso | <font color="orange">░░░░░░░░░░░░░░░░░░░░</font> 0% |
 
-**Progreso del Año 1:** <font color="green">████░░░░░░░░░░░░░░░░░░░░░░</font> 12.5% (de 8 semestres totales)
+**Progreso del Año 1:** <font color="green">██████████░░░░░░░░░░</font> 50% (1 de 2 semestres)
 
 ---
 
-### Año 2 (Semestres 5 al 8)
+### 🏅 Año 2 (Semestres 3 y 4)
 
 | Semestre | Estado | Avance del año |
 |----------|--------|----------------|
-| Semestre 5 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> |
-| Semestre 6 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> |
-| Semestre 7 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> |
-| Semestre 8 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> |
+| Semestre 3 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> 0% |
+| Semestre 4 | 🔴 Pendiente | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> 0% |
 
-**Progreso del Año 2:** <font color="gray">░░░░░░░░░░░░░░░░░░░░░░░░</font> 0%
+**Progreso del Año 2:** <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> 0%
 
 ---
 
-### Resumen
+### 📊 Resumen
 
 | Año | Semestres | Porcentaje de la carrera | Barra |
 |-----|-----------|--------------------------|-------|
-| Año 1 | 1 al 4 | 12.5% | <font color="green">████░░░░░░░░░░░░░░░░░░░░░░</font> |
-| Año 2 | 5 al 8 | 0% | <font color="gray">░░░░░░░░░░░░░░░░░░░░░░░░</font> |
+| Año 1 | 1 y 2 | 25% | <font color="green">█████░░░░░░░░░░░░░░░</font> |
+| Año 2 | 3 y 4 | 0% | <font color="gray">░░░░░░░░░░░░░░░░░░░░</font> |
 
-**Progreso total:** <font color="green">████░░░░░░░░░░░░░░░░░░░░░░</font> 12.5% (1 de 8 semestres a la mitad)
+**Progreso total:** <font color="green">█████░░░░░░░░░░░░░░░</font> 25% (1 de 4 semestres completados)
+
 ---
 
 > **Nota:** Este repositorio se actualiza constantemente con cada nueva actividad.
